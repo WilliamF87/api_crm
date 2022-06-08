@@ -1,3 +1,12 @@
 {
-  "clientes": []
+  "clientes": [
+    {
+      "nombre": "Juan",
+      "empresa": "Deprointec",
+      "email": "juan@correo.com",
+      "telefono": "4020012",
+      "notas": "No hay notas",
+      "id": 1
+    }
+  ]
 }
